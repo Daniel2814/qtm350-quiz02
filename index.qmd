@@ -1,0 +1,11 @@
+---
+title: "Gapminder Analysis"
+format: html
+---
+
+Gapminder Data Analysis for Quiz02. This site uses data from the Gapminder dataset
+
+### Explore the Data:
+- [Life Expectancy and GDP per Capita](life-gdp.qmd)
+- [Life Expectancy and Population](life-population.qmd)
+- [Country Analysis](country.qmd)
